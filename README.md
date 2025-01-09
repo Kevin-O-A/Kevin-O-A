@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- My name is Kevin
+- 🌱 I’m currently learning data science and machine learning
 <!--
 **Kevin-O-A/Kevin-O-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
